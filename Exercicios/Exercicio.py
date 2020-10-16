@@ -5,3 +5,5 @@ a = input('escreva o ano do seu nascimento: ')
 print('A sua data de nascimento é: {} de {} de {}.'.format(d, m, a))
 if m == 'dezembro':
     print('você é sagitariano!')
+if m == 'fevereiro':
+    print('Você é Aquariano!')
