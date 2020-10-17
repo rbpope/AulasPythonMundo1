@@ -6,13 +6,13 @@ m = float((n1 + n2 + n3) / 3)
 ma = float(7.0)
 if m >= ma:
     print('='*50)
-    print(f'{nome}, sua média foi {m:.2f} e você está Aprovado, Boas Férias!!!')
+    print('{}, sua média foi {:.2f} e você está Aprovado, Boas Férias!!!'.format(nome, m))
     print('='* 50)
 if float(5.0) <= m < ma:
     print('=' * 50)
-    print(f'{nome}, sua média foi {m:.2f}. Vamos fazer recuperação!!!')
+    print('{}, sua média foi {:.2f}. Vamos fazer recuperação!!!'.format(nome,m))
     print('='* 50)
 if  m < float(5.0):
     print('=' * 50)
-    print(f'{nome}, sua média foi {m:.2f} e você foi Reprovado!!!')
+    print('{}, sua média foi {:.2f} e você foi Reprovado!!!'.format(nome, m))
     print('='* 50)
