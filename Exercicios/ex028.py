@@ -10,7 +10,7 @@ print('{}Vou escolher um número entre 0 e 5, tente adivinhar!!!{}'.format(cores
 print('-=-'*20)
 n = int(input('Digite um número de 0 a 5: ')) #Escolha do jogador
 print('{}(o){}'.format(cores['verm'], cores['limpa']))
-sleep(3)
+sleep(2)
 if nc == n :
     print('Parabéns, você acertou!') 
 else:
