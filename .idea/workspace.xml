@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbbe5c95-d6c1-492e-ae70-97c82afde974" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Exercicios/Exercicio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Exercicio.py" afterDir="false" />
-    </list>
+    <list default="true" id="dbbe5c95-d6c1-492e-ae70-97c82afde974" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercicios" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
