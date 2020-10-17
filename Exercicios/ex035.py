@@ -1,5 +1,7 @@
+cores = {'inv':'\033[7m',
+        'limpa':'\033[m'}
 print('==='*8)
-print('\033[7mANALISADOR DE TRIANGULO\033[m')
+print('{}ANALISADOR DE TRIANGULO{}'.format(cores['inv'], cores['limpa']))
 print('==='*8)
 x = float(input('Digite o primeiro lado do triangulo: '))
 y = float(input('Digite o segundo lado do triangulo: '))
@@ -12,3 +14,4 @@ if x == y and x == z:
     print('É um triangulo equilatero.')
 if x == y or x == z or y == z:
     print('É um triangulo isosceles.')
+    
