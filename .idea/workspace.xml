@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbbe5c95-d6c1-492e-ae70-97c82afde974" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/ex029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/ex031.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex031.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,26 +208,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1602973160140">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom" timestamp="1602980277051">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602973160140" />
-    <state width="1419" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602951527587" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1602973160140">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602980277051" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center" timestamp="1602980277050">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602973160140" />
-    <state width="1419" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602951527586" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1602973160140">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602980277050" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left" timestamp="1602980277049">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602973160140" />
-    <state width="1419" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602951527585" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1602973160140">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602980277049" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right" timestamp="1602980277050">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602973160140" />
-    <state width="1419" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602951527587" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602980277050" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602969580539">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
